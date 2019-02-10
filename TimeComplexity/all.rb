@@ -240,4 +240,20 @@ print "N = 100, Number of instructions ::", fun11(100), "\n"
 print "N = 100, Number of instructions ::", fun12(100), "\n"
 print "N = 100, Number of instructions ::", fun13(100), "\n"
 
+# Output:
+# N = 100, Number of instructions ::100
+# N = 100, Number of instructions ::10000
+# N = 100, Number of instructions ::4950
+# N = 100, Number of instructions ::7
+# N = 100, Number of instructions ::7
+# N = 100, Number of instructions ::1000000
+# N = 100, Number of instructions ::20000
+# N = 100, Number of instructions ::1000
+# N = 100, Number of instructions ::197
+# N = 100, Number of instructions ::4950
+# N = 100, Number of instructions ::166650
+# N = 100, Number of instructions ::100
+# N = 100, Number of instructions ::134
+# [Finished in 0.9s]
+
 
